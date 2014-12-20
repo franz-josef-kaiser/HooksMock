@@ -15,8 +15,8 @@
     },
     "license": "GPL-2.0+",
     "require": {
-        "php": ">=5.4",
-        "phpunit/phpunit": "4.3.*"
+        "php": ">=5.3",
+        "phpunit/phpunit": "4.4.*"
     },
     "conflict": {
         "10up/wp_mock": "*"
